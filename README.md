@@ -5,4 +5,5 @@ git init
 git add README.md
 git commit-m "primeiro cometer"
 git add origem remota https://github.com/MatheusTavares/Tec.git 
-git push-u mestre origem
+git push-u mestre origem ma oi
+
